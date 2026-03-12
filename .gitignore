@@ -1,0 +1,22 @@
+# node modules
+node_modules/
+**/node_modules/
+
+# environment files
+.env
+**/.env
+
+# logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# build folders
+dist/
+build/
+
+# dependency directories
+jspm_packages/
