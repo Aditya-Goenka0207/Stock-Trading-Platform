@@ -37,7 +37,7 @@ const Login = () => {
 
     try {
       const { data } = await axios.post(
-        "http://localhost:4000/api/auth/login",
+        "https://zerodha-auth-server.onrender.com/api/auth/login",
         { ...inputValue },
         { withCredentials: true },
       );
@@ -47,7 +47,7 @@ const Login = () => {
       if (success) {
         handleSuccess(message);
 
-     window.location.href = "http://localhost:3001";
+     window.location.href = "https://zerodha-frontend-tbed.onrender.com";
       } else {
         handleError(message);
       }

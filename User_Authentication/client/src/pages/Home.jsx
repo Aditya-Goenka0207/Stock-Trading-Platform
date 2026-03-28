@@ -12,7 +12,7 @@ const Home = () => {
   useEffect(() => {
     const verifyCookie = async () => {
       const { data } = await axios.post(
-        "http://localhost:4000/api/auth/verify",
+        "https://zerodha-auth-server.onrender.com/api/auth/verify",
         {},
         { withCredentials: true },
       );
