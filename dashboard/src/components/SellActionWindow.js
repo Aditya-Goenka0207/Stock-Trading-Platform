@@ -16,7 +16,7 @@ const SellActionWindow = ({ uid }) => {
     const fetchStockHolding = async () => {
       try {
         const res = await axios.get(
-          `http://localhost:3002/holdings/${uid}`
+          `https://zerodha-backend-fxfd.onrender.com/holdings/${uid}`
         );
 
         // If stock exists, backend will return holding object
@@ -39,7 +39,7 @@ const SellActionWindow = ({ uid }) => {
 
     // Place SELL order
     try {
-      await axios.post("http://localhost:3002/newOrder", {
+      await axios.post("https://zerodha-backend-fxfd.onrender.com/newOrder", {
         name: uid,
         qty: stockQuantity,
         price: stockPrice,

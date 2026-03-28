@@ -31,7 +31,7 @@ function Navbar() {
             <ul class="navbar-nav mb-lg-0">
               <li class="nav-item">
                 <a
-                  href="http://localhost:3003"
+                  href="https://zerodha-dashboard-wf2q.onrender.com"
                   class="nav-link active" aria-current="page"
                   target="_blank"
                   rel="noreferrer"
