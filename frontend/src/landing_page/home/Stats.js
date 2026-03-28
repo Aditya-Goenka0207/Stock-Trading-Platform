@@ -28,9 +28,9 @@ function Stats() {
 
                     <div className='text-center'>
 
-                        <Link href='' className='mx-5' style={{textDecoration:"none"}}>Explore our products <i class="fa fa-long-arrow-right" aria-hidden="true"></i></Link>
+                        <Link href='#' className='mx-5' style={{textDecoration:"none"}}>Explore our products <i class="fa fa-long-arrow-right" aria-hidden="true"></i></Link>
 
-                        <Link href='' style={{textDecoration:"none"}}>Try Kite demo  <i class="fa fa-long-arrow-right" aria-hidden="true"></i></Link>
+                        <Link href='#' style={{textDecoration:"none"}}>Try Kite demo  <i class="fa fa-long-arrow-right" aria-hidden="true"></i></Link>
                     </div>
                 </div>
             </div>

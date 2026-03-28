@@ -17,11 +17,11 @@ function Education() {
 
                     <p>Varsity, the largest online stock market education book in the world covering everything from the basics to  advanced trading.</p>
 
-                   <Link href='' style={{textDecoration:"none"}}>Versity  <i class="fa fa-long-arrow-right" aria-hidden="true"></i></Link>
+                   <Link href='#' style={{textDecoration:"none"}}>Versity  <i class="fa fa-long-arrow-right" aria-hidden="true"></i></Link>
 
                    <p className='mt-5'>Trading Q&A, the most active trading and investment community in India for all your market related queries.</p>
 
-                   <Link href='' style={{textDecoration:"none"}}>TradingQ&A  <i class="fa fa-long-arrow-right" aria-hidden="true"></i></Link>
+                   <Link href='#' style={{textDecoration:"none"}}>TradingQ&A  <i class="fa fa-long-arrow-right" aria-hidden="true"></i></Link>
                 </div>
             </div>
         </div>

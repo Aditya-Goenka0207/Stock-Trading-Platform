@@ -38,35 +38,35 @@ function Footer() {
 
           <div className="col">
             <p>Company</p>
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               About
             </Link>
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Products
             </Link>
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Pricing
             </Link>{" "}
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Referral programme
             </Link>
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Careers
             </Link>
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Zerodha.tech
             </Link>
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Press & media
             </Link>
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Zerodha cares (CSR)
             </Link>
             <br />
@@ -74,23 +74,23 @@ function Footer() {
 
           <div className="col">
             <p>Support</p>
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Contact
             </Link>
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Support portal
             </Link>
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Z-Connect blog
             </Link>{" "}
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               List of charges
             </Link>
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Downloads & resources
             </Link>
             <br />
@@ -98,15 +98,15 @@ function Footer() {
 
           <div className="col">
             <p>Account</p>
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Open an account
             </Link>
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               Fund transfer
             </Link>
             <br />
-            <Link href="" className="text-muted footer-link">
+            <Link href="#" className="text-muted footer-link">
               60 days challenge
             </Link>
             <br />
@@ -159,25 +159,25 @@ function Footer() {
             create a ticket here.
           </p>
           <div className="d-flex flex-wrap justify-content-center gap-4 mt-4">
-            <Link className="text-muted footer-link-bottom" href="">
+            <Link className="text-muted footer-link-bottom" href="#">
               NSE
             </Link>
-            <Link className="text-muted footer-link-bottom" href="">
+            <Link className="text-muted footer-link-bottom" href="#">
               BSE
             </Link>
-            <Link className="text-muted footer-link-bottom" href="">
+            <Link className="text-muted footer-link-bottom" href="#">
               MCX
             </Link>
-            <Link className="text-muted footer-link-bottom" href="">
+            <Link className="text-muted footer-link-bottom" href="#">
               Terms & conditions
             </Link>
-            <Link className="text-muted footer-link-bottom" href="">
+            <Link className="text-muted footer-link-bottom" href="#">
               Policies & procedures
             </Link>
-            <Link className="text-muted footer-link-bottom" href="">
+            <Link className="text-muted footer-link-bottom" href="#">
               Privacy policy
             </Link>
-            <Link className="text-muted footer-link-bottom" href="">
+            <Link className="text-muted footer-link-bottom" href="#">
               Disclosure
             </Link>
           </div>
