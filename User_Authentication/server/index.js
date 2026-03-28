@@ -16,7 +16,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "https://zerodha-frontend-tbed.onrender.com", // frontend
+    origin: "https://zerodha-auth-client.onrender.com", // frontend
     credentials: true,
   }),
 );
